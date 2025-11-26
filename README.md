@@ -1,2 +1,6 @@
 # Parcial5SUP-Alezana
-Amaro lezana 
+
+Amaro lezana
+
+Vicente peña 
+
